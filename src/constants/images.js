@@ -1,4 +1,3 @@
-import email from '../assets/email.png';
 import email2 from '../assets/email3.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
@@ -19,6 +18,8 @@ import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
+import avatar from '../assets/avatar3.png';
+
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
@@ -38,7 +39,6 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 export default {
-  email,
   email2,
   mobile,
   api,
@@ -62,6 +62,7 @@ export default {
   about02,
   about03,
   about04,
+  avatar,
   profile,
   circle,
   logo,
